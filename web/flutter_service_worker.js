@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5654ac1c1f5c1fc0e8d8dca57ffc68f4",
+const RESOURCES = {"flutter_bootstrap.js": "1cd489014e405511f08609faac39e0ff",
 "manifest.json": "1fb58112960ad4b90c33664c5346dbb1",
 "index.html": "3f7d1abfa1e600ba063088a2c5df1429",
 "/": "3f7d1abfa1e600ba063088a2c5df1429",
-"main.dart.js": "71b08e7f61b972d09e1721a58f59d88c",
+"main.dart.js": "5f3a5feb321387a38fd2b2c3dd60f90a",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -39,7 +39,7 @@ const RESOURCES = {"flutter_bootstrap.js": "5654ac1c1f5c1fc0e8d8dca57ffc68f4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/lib/assets/dummy_report.json": "894d8985800b1cf575587e4ce4d3c86d",
 "assets/lib/assets/dummy_messages.json": "79a7e1528e927f3efcd640e1c3f25de4",
-"assets/lib/assets/dummy_marks.json": "e50280d7f7ac9d5e6c4e7134b6ab7e8d",
+"assets/lib/assets/dummy_marks.json": "d7e067cc9dc69df5dc770f9fa8e050a9",
 "assets/lib/assets/dummy_timetable.json": "84d160b6b0dcc46e8171ab5a639e3e47",
 "assets/lib/assets/skolaoffline_logo.png": "d5a00a4bf854f92330ae991edf716ff1",
 "assets/lib/assets/sof512.png": "59c055420b451eb919575c2db86881d9",
@@ -60,7 +60,7 @@ const RESOURCES = {"flutter_bootstrap.js": "5654ac1c1f5c1fc0e8d8dca57ffc68f4",
 "canvaskit/skwasm.js": "5d4f9263ec93efeb022bb14a3881d240",
 "canvaskit/canvaskit.wasm": "9251bb81ae8464c4df3b072f84aa969b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"version.json": "19529a179fdc7d032f0295510daaeb0e"};
+"version.json": "58c9547588c29f3719e748577108989d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
